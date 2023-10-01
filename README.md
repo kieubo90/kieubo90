@@ -1,6 +1,6 @@
 # Hey there, I'm Vu Kieu Phong Vu! :wave: :rocket:
 
-<img align="right" src="[YOUR_PICTURE_URL](https://ibb.co/pLczBFZ)" width="250">
+<img align="right" src="https://ibb.co/pLczBFZ" width="250">
 
 ## :man_student: About Me
 
