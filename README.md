@@ -11,19 +11,40 @@
 
 ## :hammer_and_wrench: Tech Stack
 
-- **Languages:**  
-  ![C](![image](https://github.com/kieubo90/kieubo90/assets/88286643/6ade4b93-99f0-433b-a8ea-abcd9a68f82e))  
-  ![C++](![image](https://github.com/kieubo90/kieubo90/assets/88286643/ef144f05-5dab-493c-b4d6-9c5d54c1cb5a))  
-  ![Python](ICON_URL_FOR_PYTHON)  
-  ![HTML](ICON_URL_FOR_HTML)  
-  ![CSS](ICON_URL_FOR_CSS)  
-  ![JavaScript](ICON_URL_FOR_JAVASCRIPT)  
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="https://www.linkedin.com/in/vu-kieu-phong-vu-58b623141" />
+</div>
+
+###
 
 ## :handshake: Let's Connect
 
 Feel free to reach out and connect with me on 
 
-[LinkedIn](https://www.linkedin.com/in/vu-kieu-phong-vu-58b623141/)
+
 
 and have a look at my resume:
 
