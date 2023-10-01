@@ -7,15 +7,7 @@
 - :trophy: **Achievements:** Familiar with **C** and always expanding my knowledge horizon.
 - :chart_with_upwards_trend: **Learning Journey:** Venturing into **C++**, **Python**, **HTML**, **CSS**, and **JavaScript**.
 
-## :hammer_and_wrench: Tech Stack
-
 ###
-
-
-
-###
-
-
 ###
 
 ## :handshake: Let's Connect
@@ -41,6 +33,7 @@ and have a look at my resume:
 
 or drop a :star: on my repositories if you find them interesting!
 
+## :hammer_and_wrench: Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
