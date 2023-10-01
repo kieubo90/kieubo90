@@ -11,9 +11,33 @@
 
 ## :hammer_and_wrench: Tech Stack
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+###
+
+
 
 ###
+
+
+###
+
+## :handshake: Let's Connect
+
+Feel free to reach out and connect with me on 
+  <!-- <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
+<div align="left">
+  <a href="https://www.youtube.com/channel/UC4yqTlw-0LxCW4b7RZvPbug"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />(mailto:your.email@gmail.com)
+  <a href="https://www.linkedin.com/in/vu-kieu-phong-vu-58b623141"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge https://www.linkedin.com/in/vu-kieu-phong-vu-58b623141" height="35" alt="linkedin logo"/></a>
+</div>
+
+
+and have a look at my resume:
+
+[CV](https://drive.google.com/file/d/1lx5XG5jWTW0jADvtnTnfcjpIcMfo7qC8/view?usp=drive_link)
+
+or drop a :star: on my repositories if you find them interesting!
+
+![Cool Emotion Picture](EMOTION_PICTURE_URL)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -28,31 +52,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-
-###
-  <!-- <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/vu-kieu-phong-vu-58b623141"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge https://www.linkedin.com/in/vu-kieu-phong-vu-58b623141" height="35" alt="linkedin logo"/></a>
-</div>
-
-###
-
-## :handshake: Let's Connect
-
-Feel free to reach out and connect with me on 
-
-
-
-and have a look at my resume:
-
-[CV](https://drive.google.com/file/d/1lx5XG5jWTW0jADvtnTnfcjpIcMfo7qC8/view?usp=drive_link)
-
-or drop a :star: on my repositories if you find them interesting!
-
-![Cool Emotion Picture](EMOTION_PICTURE_URL)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieubo90&theme=calm_pink_icons=true)
