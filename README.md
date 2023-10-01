@@ -1,6 +1,6 @@
 # Hey there, I'm Vu Kieu Phong Vu! :wave: :rocket:
 
-<img align="right" src="YOUR_PICTURE_URL" width="250" alt="Picture of Vu Kieu Phong Vu">
+<img align="right" src="[YOUR_PICTURE_URL](https://ibb.co/pLczBFZ)" width="250">
 
 ## :man_student: About Me
 
@@ -12,8 +12,8 @@
 ## :hammer_and_wrench: Tech Stack
 
 - **Languages:**  
-  ![C](ICON_URL_FOR_C)  
-  ![C++](ICON_URL_FOR_C++)  
+  ![C](![image](https://github.com/kieubo90/kieubo90/assets/88286643/6ade4b93-99f0-433b-a8ea-abcd9a68f82e))  
+  ![C++](![image](https://github.com/kieubo90/kieubo90/assets/88286643/ef144f05-5dab-493c-b4d6-9c5d54c1cb5a))  
   ![Python](ICON_URL_FOR_PYTHON)  
   ![HTML](ICON_URL_FOR_HTML)  
   ![CSS](ICON_URL_FOR_CSS)  
