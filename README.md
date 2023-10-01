@@ -23,11 +23,11 @@
 
 Feel free to reach out and connect with me on 
 
-[LinkedIn]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/vu-kieu-phong-vu-58b623141/)) 
+[LinkedIn]([https://www.linkedin.com/in/vu-kieu-phong-vu-58b623141/])
 
 and have a look at my resume:
 
-[CV] (https://drive.google.com/file/d/1lx5XG5jWTW0jADvtnTnfcjpIcMfo7qC8/view?usp=sharing)
+[CV]([https://drive.google.com/file/d/1lx5XG5jWTW0jADvtnTnfcjpIcMfo7qC8/view?usp=sharing])
 
 or drop a :star: on my repositories if you find them interesting!
 
