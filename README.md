@@ -1,7 +1,5 @@
 # Hey there, I'm Vu Kieu Phong Vu! :wave: :rocket:
 
-<img align="right" src="https://ibb.co/pLczBFZ" width="250">
-
 ## :man_student: About Me
 
 - 🎓 **Studying:** I'm currently diving deep into the world of code at **Hive**.
@@ -43,7 +41,6 @@ and have a look at my resume:
 
 or drop a :star: on my repositories if you find them interesting!
 
-![Cool Emotion Picture](EMOTION_PICTURE_URL)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
