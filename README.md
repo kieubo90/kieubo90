@@ -21,8 +21,17 @@
 
 ## :handshake: Let's Connect
 
-Feel free to reach out and connect with me on [LinkedIn](YOUR_LINKEDIN_PROFILE_URL), [Twitter](YOUR_TWITTER_URL) or drop a :star: on my repositories if you find them interesting!
+Feel free to reach out and connect with me on 
+
+[LinkedIn](YOUR_LINKEDIN_PROFILE_URL) 
+
+and have a look at my resume:
+
+https://drive.google.com/file/d/1lx5XG5jWTW0jADvtnTnfcjpIcMfo7qC8/view?usp=sharing
+
+or drop a :star: on my repositories if you find them interesting!
 
 ![Cool Emotion Picture](EMOTION_PICTURE_URL)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieubo90&theme=calm_pink_icons=true)
