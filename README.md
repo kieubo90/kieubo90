@@ -23,7 +23,7 @@
 
 Feel free to reach out and connect with me on 
 
-[LinkedIn]([https://www.linkedin.com/in/vu-kieu-phong-vu-58b623141/])
+[LinkedIn](https://www.linkedin.com/in/vu-kieu-phong-vu-58b623141/)
 
 and have a look at my resume:
 
