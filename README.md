@@ -27,7 +27,7 @@ Feel free to reach out and connect with me on
 
 and have a look at my resume:
 
-[CV](https://drive.google.com/file/d/1lx5XG5jWTW0jADvtnTnfcjpIcMfo7qC8/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1lx5XG5jWTW0jADvtnTnfcjpIcMfo7qC8/view?usp=drive_link)
 
 or drop a :star: on my repositories if you find them interesting!
 
