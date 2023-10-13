@@ -53,9 +53,8 @@ or drop a :star: on my repositories if you find them interesting!
 </div>
 
 ## &#128104;&#8205;&#128187;&#128214; [Current Learning](#learn-skills)
-<a name="learn-skills">
+<a name="learn-skills"></a>
 <div align="left">
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -66,6 +65,7 @@ or drop a :star: on my repositories if you find them interesting!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
-</a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieubo90&theme=calm_pink_icons=true)
 
