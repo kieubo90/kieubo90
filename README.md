@@ -33,7 +33,7 @@ and have a look at my resume:
 
 or drop a :star: on my repositories if you find them interesting!
 
-## :hammer_and_wrench: [Current Technical Skills](#tech-skills)
+## &#129489;&#8205;&#128187; [Current Technical Skills](#tech-skills)
 <a name="tech-skills"></a>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
