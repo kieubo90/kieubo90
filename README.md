@@ -45,7 +45,7 @@ or drop a :star: on my repositories if you find them interesting!
 
 ## :hammer_and_wrench: Design Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
-<img width = "12" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
           
 ## :hammer_and_wrench: Current Learning 
