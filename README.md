@@ -31,8 +31,6 @@ and have a look at my resume: <br>
  <a href="https://drive.google.com/file/d/1lx5XG5jWTW0jADvtnTnfcjpIcMfo7qC8/view?usp=drive_link" target="_blank">
     <img src="https://github.com/kieubo90/kieubo90/blob/main/icons8-resume-100.png?raw=true" height="50" width="50" alt="linkedin logo"/>
   </a>
-<!--[CV](https://drive.google.com/file/d/1lx5XG5jWTW0jADvtnTnfcjpIcMfo7qC8/view?usp=drive_link)-->
-
 or drop a :star: on my repositories if you find them interesting!
 
 ## &#129489;&#8205;&#128187; [Current Technical Skills](#tech-skills)
