@@ -33,7 +33,7 @@ and have a look at my resume:
 
 or drop a :star: on my repositories if you find them interesting!
 
-## :hammer_and_wrench: Current Technical Skills
+## :hammer_and_wrench: [Current Technical Skills](#tech-skills)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -42,14 +42,17 @@ or drop a :star: on my repositories if you find them interesting!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo" />
 </div>
+<a name="tech-skills"></a>
 
 ## :hammer_and_wrench: Design Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
-          
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
+</div>
+
 ## :hammer_and_wrench: Current Learning 
-<div>
+<div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
