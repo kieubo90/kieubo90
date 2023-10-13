@@ -44,14 +44,16 @@ or drop a :star: on my repositories if you find them interesting!
 </div>
 
 
-## :hammer_and_wrench: Design Skills
+## &#128104;&#8205;&#127912;&#128421;&#65039; [Design Skills](#design-skills)
+<a name="design-skills"></a>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
 </div>
 
-## :hammer_and_wrench: Current Learning 
+## &#128104;&#8205;&#128187;&#128214; [Current Learning](#learn-skills)
+<a name="learn-skills">
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -64,6 +66,6 @@ or drop a :star: on my repositories if you find them interesting!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
-
+</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieubo90&theme=calm_pink_icons=true)
 
