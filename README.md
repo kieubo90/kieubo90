@@ -4,7 +4,7 @@
 
 🍲 **From the Kitchen to the Code:** Formerly a seasoned professional chef, I've traded my culinary tools for a keyboard and am now simmering in the vast ocean of programming.
 
-🎓 Studying: I'm currently diving deep into the world of code at **Hive**.
+🎓 Studying: I'm currently diving deep into the world of code at <a href="https://www.hive.fi/en/">**Hive**</a>.
 
 🔍 **Current Specialization:** My current expertise lies in C and C++. These languages have been the backbone of my coding journey, helping me grasp core programming concepts and methodologies.
 
