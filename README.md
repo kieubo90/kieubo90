@@ -12,9 +12,9 @@
 
 :books: **Self-Learning:** Thanks to platforms like Udemy and Coursera.
 
-✉️ Stay in Touch: I'm always open to connecting with fellow developers, sharing knowledge, and exploring new opportunities. Feel free to drop me a message!
+✉️ Stay in Touch: I'm always open to connecting with fellow developers, sharing knowledge, and exploring new opportunities. Feel free to send me an email!
 
-🌟  **Final Thoughts:** If you're interested in what I'm currently working on or would like to collaborate, please take a look at my repositories. I also have a detailed CV available for those keen to dive deeper into my professional journey.
+🌟  **Final Thoughts:** If you're interested in what I'm currently working on or would like to collaborate, please take a look at my repositories, I also attached my CV below.
 
 ###
 ###
