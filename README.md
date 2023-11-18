@@ -37,7 +37,7 @@ Feel free to reach out and connect with me on
 
 
 and have a look at my resume: <br>
- <a href="https://drive.google.com/file/d/1lx5XG5jWTW0jADvtnTnfcjpIcMfo7qC8/view?usp=drive_link" target="_blank">
+ <a href="https://drive.google.com/file/d/18UiuPcN3tV-EAd6iKq1_UGG1oTsGgba1/view?usp=drive_link" target="_blank">
     <img src="https://github.com/kieubo90/kieubo90/blob/main/icons8-resume-100.png?raw=true" height="50" width="50" alt="linkedin logo"/>
 </a> <br>
 or drop a :star: on my repositories if you find them interesting!
