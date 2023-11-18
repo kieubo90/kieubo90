@@ -6,11 +6,11 @@
 
 🎓 **Studying:** I'm currently diving deep into the world of code at <a href="https://www.hive.fi/en/" target="_blank">**Hive**</a>.
 
-🔍 **Current Specialization:** My current expertise lies in C and C++. These languages have been the backbone of my coding journey, helping me grasp core programming concepts and methodologies.
+🔍 **Current Specialization:** My current expertise is about Game development or Game design.
 
 🚀 **Always Learning:** I have an insatiable appetite for growth and consistently challenge myself to step beyond my comfort zone. In the world of code, as in the kitchen, I believe there's always a new recipe or technique waiting to be mastered.
 
-:books: **Self-Learning:** Thanks to platforms like Udemy and Coursera.
+:books: **Self-Learning:** Thanks to platforms like Udemy and Coding game.
 
 ✉️ **Stay in Touch:** I'm always open to connecting with fellow developers, sharing knowledge, and exploring new opportunities. Feel free to send me an email!
 
@@ -36,7 +36,7 @@ Feel free to reach out and connect with me on
 </div>
 
 
-and have a look at my resume: <br>
+and have a look at my Game resume: <br>
  <a href="https://drive.google.com/file/d/1k_qFtPl-ii9fqZ_a4eOuRitj1BG1EMJI/view?usp=drive_link" target="_blank">
     <img src="https://github.com/kieubo90/kieubo90/blob/main/icons8-resume-100.png?raw=true" height="50" width="50" alt="linkedin logo"/>
 </a> <br>
