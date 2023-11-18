@@ -4,15 +4,15 @@
 
 🍲 **From the Kitchen to the Code:** Formerly a seasoned professional chef, I've traded my culinary tools for a keyboard and am now simmering in the vast ocean of programming.
 
-🎓 Studying: I'm currently diving deep into the world of code at <a href="https://www.hive.fi/en/" target="_blank">**Hive**</a>.
+🎓 **Studying:** I'm currently diving deep into the world of code at <a href="https://www.hive.fi/en/" target="_blank">**Hive**</a>.
 
 🔍 **Current Specialization:** My current expertise lies in C and C++. These languages have been the backbone of my coding journey, helping me grasp core programming concepts and methodologies.
 
-🚀 Always Learning: I have an insatiable appetite for growth and consistently challenge myself to step beyond my comfort zone. In the world of code, as in the kitchen, I believe there's always a new recipe or technique waiting to be mastered.
+🚀 **Always Learning:** I have an insatiable appetite for growth and consistently challenge myself to step beyond my comfort zone. In the world of code, as in the kitchen, I believe there's always a new recipe or technique waiting to be mastered.
 
 :books: **Self-Learning:** Thanks to platforms like Udemy and Coursera.
 
-✉️ Stay in Touch: I'm always open to connecting with fellow developers, sharing knowledge, and exploring new opportunities. Feel free to send me an email!
+✉️ **Stay in Touch:** I'm always open to connecting with fellow developers, sharing knowledge, and exploring new opportunities. Feel free to send me an email!
 
 🌟  **Final Thoughts:** If you're interested in what I'm currently working on or would like to collaborate, please take a look at my repositories, I also attached my CV below.
 
