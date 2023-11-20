@@ -36,7 +36,7 @@ Feel free to reach out and connect with me on
 </div>
 
 
-and have a look at my Game resume: <br>
+and have a look at my resume: <br>
  <a href="https://drive.google.com/file/d/1k_qFtPl-ii9fqZ_a4eOuRitj1BG1EMJI/view?usp=drive_link" target="_blank">
     <img src="https://github.com/kieubo90/kieubo90/blob/main/icons8-resume-100.png?raw=true" height="50" width="50" alt="linkedin logo"/>
 </a> <br>
