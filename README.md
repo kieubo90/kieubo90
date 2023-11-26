@@ -6,7 +6,7 @@
 
 🎓 **Studying:** I'm currently diving deep into the world of code at <a href="https://www.hive.fi/en/" target="_blank">**Hive**</a>.
 
-🔍 **Current Specialization:** My current expertise is about **Game development or Game design.**
+🔍 **Current Specialization:** My current expertise is about **Game development.**
 
 🚀 **Always Learning:** I have an insatiable appetite for growth and consistently challenge myself to step beyond my comfort zone. In the world of code, as in the kitchen, I believe there's always a new recipe or technique waiting to be mastered.
 
