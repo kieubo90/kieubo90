@@ -1,6 +1,6 @@
 # Hey there, I'm Vu Kieu Phong Vu! :wave: :rocket:
 
-## :man_student: About Me
+## :man_student: About Me 
 
 🍲 **From the Kitchen to the Code:** Formerly a seasoned professional chef, I've traded my culinary tools for a keyboard and am now simmering in the vast ocean of programming.
 
