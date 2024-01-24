@@ -72,9 +72,8 @@ or drop a :star: on my repositories if you find them interesting!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="Cmake logo" />
   <img width="12" />
-  <img src="https://www.sfml-dev.org/download/goodies/sfml-logo.svg" height="30" alt="SFML logo" />
-</div>
-<br>
+  <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" height="30" alt="Flutter logo" />
+</div><br>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieubo90&theme=calm_pink_icons=true)
