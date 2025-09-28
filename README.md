@@ -2,8 +2,6 @@
 
 ## :man_student: About Me 
 
-🍲 **From the Kitchen to the Code:** Formerly a seasoned professional chef, I've traded my culinary tools for a keyboard and am now simmering in the vast ocean of programming.
-
 🎓 **Studying:** I'm currently diving deep into the world of code at <a href="https://www.hive.fi/en/" target="_blank">**Hive**</a>.
 
 🔍 **Current Specialization:** My current expertise is about **App development.**
